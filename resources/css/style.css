@@ -1,0 +1,45 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.bgh{
+    background-image: url('https://wallpaperaccess.com/full/1491613.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    overflow-x: hidden;
+}
+.active{
+    background-color: #fae60b;
+    border-radius: 10px;
+    padding: 5px;
+    color: #0867bb;
+}
+h1{
+    color: white;
+}
+nav,footer,.btn{
+    background-color: #0867bb;
+}
+.btnnav{
+    border-radius: 10px;
+    transition: all 0.5s;  
+}
+.btnnav:hover{
+    background-color: #fae60b;
+    border-radius: 10px;
+    color: #0867bb;
+    padding: 5px;
+}
+.btn-bg{
+    background-color: #fae60b;
+}
+
+h2,h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #0867bb;
+}
+h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: goldenrod;
+}
